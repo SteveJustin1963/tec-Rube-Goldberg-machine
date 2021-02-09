@@ -1,4 +1,4 @@
-# tec-Rube-Goldberg-machines
+# tec-Rube-Goldberg-machine
 TEC-1 controlling Rube Goldberg machine
 
 
